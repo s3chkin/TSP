@@ -1,0 +1,16 @@
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.exe
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.deps.json
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.runtimeconfig.json
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.dll
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\bin\Debug\net8.0-windows\Arrays.pdb
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.Form1.resources
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.csproj.GenerateResource.cache
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.AssemblyInfoInputs.cache
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.AssemblyInfo.cs
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.dll
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\obj\Debug\net8.0-windows\refint\Arrays.dll
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.pdb
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\obj\Debug\net8.0-windows\Arrays.genruntimeconfig.cache
+C:\Users\Sechkin\Documents\TSP\Arrays\Arrays\obj\Debug\net8.0-windows\ref\Arrays.dll
